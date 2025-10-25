@@ -6,3 +6,4 @@ mirror test
 diff test
 diff summary trigger
 docs-diff run test
+docs-diff final check
