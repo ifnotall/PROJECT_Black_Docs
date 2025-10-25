@@ -1,0 +1,39 @@
+name: Docs Diff Summary
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'Docs/**'
+      - 'Docs/DataTables/**'
+
+jobs:
+  summarize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Generate Docs/DataTables diff
+        run: |
+          git diff --name-status HEAD~1 HEAD -- Docs Docs/DataTables > diff_names.txt
+          git diff HEAD~1 HEAD -- Docs Docs/DataTables > diff_patch.txt
+          echo "### Changed Files" > DocsChangeSummary.md
+          cat diff_names.txt >> DocsChangeSummary.md
+          echo "" >> DocsChangeSummary.md
+          echo "### Patch Context" >> DocsChangeSummary.md
+          head -n 500 diff_patch.txt >> DocsChangeSummary.md
+
+      - name: Extract #Update commits
+        run: |
+          git log HEAD~1..HEAD --grep="#Update:" --pretty=format:"- %s (%ad)" --date=short > UpdateCommits.md
+          echo "" >> DocsChangeSummary.md
+          echo "### #Update Commits" >> DocsChangeSummary.md
+          cat UpdateCommits.md >> DocsChangeSummary.md
+
+      - name: Upload summary artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: DocsChangeSummary
+          path: DocsChangeSummary.md
