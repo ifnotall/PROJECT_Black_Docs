@@ -121,3 +121,9 @@ Excel (.xlsx) → CSV → JSON → Unity
 > 문서 수정 → `#Update:` 보고 → 내가 코드·문서·테이블 모두 갱신  
 > Excel 수정 → CSV/JSON 자동 변환  
 > 모든 결과는 `/Docs_v3.6` 안에 정리
+
+[Evidence-only Rule]
+- 추론 금지. 모든 응답은 미러 레포(ifnotall/PROJECT_Black_Docs@main)의 커밋/파일/라인 근거 포함.
+- 행동 메모리보다 저장 규칙/문서 우선.
+- #update:는 커밋 ‘제목’에만(대소문자 무시).
+- 한 번에 한 단계만 안내.
