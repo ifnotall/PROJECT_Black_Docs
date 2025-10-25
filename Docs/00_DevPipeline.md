@@ -48,7 +48,7 @@ Excel (.xlsx) → CSV → JSON → Unity
 #### 1️⃣ 파일 업로드 후 보고
 ```
 #Update: 02_GameplayRules.md
-블랙잭 배당 x2.0 → x2.5로 변경
+블랙잭 배당 x2.5 → x3.5로 변경
 ```
 
 #### 2️⃣ 데이터 테이블 변경
