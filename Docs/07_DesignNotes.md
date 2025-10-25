@@ -7,3 +7,4 @@ diff test
 diff summary trigger
 docs-diff run test
 docs-diff final check
+changelog auto test
