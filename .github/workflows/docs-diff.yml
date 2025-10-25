@@ -27,7 +27,11 @@ jobs:
 
       - name: Extract #Update commits
         run: |
-          git log HEAD~1..HEAD --grep="#Update:" --pretty=format:"- %s (%ad)" --date=short > UpdateCommits.md
+          # 커밋 제목의 '#update:' 를 대소문자 구분 없이 수집
+          git log HEAD~1..HEAD \
+            --regexp-ignore-case \
+            --grep="^#update:" \
+            --pretty=format:"- %s (%ad)" --date=short > UpdateCommits.md
           echo "" >> DocsChangeSummary.md
           echo "### #Update Commits" >> DocsChangeSummary.md
           cat UpdateCommits.md >> DocsChangeSummary.md
