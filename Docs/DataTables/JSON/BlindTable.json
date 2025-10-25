@@ -1,0 +1,72 @@
+[
+  {
+    "Id": "blind_01",
+    "Name": "Hidden Totals",
+    "EffectType": "BlindEffect",
+    "EffectValue": "HideTotals",
+    "Desc": "플레이어/딜러 합계 숨김"
+  },
+  {
+    "Id": "blind_02",
+    "Name": "Turn Limit",
+    "EffectType": "BlindEffect",
+    "EffectValue": "TurnCap=3",
+    "Desc": "턴 제한 3"
+  },
+  {
+    "Id": "blind_03",
+    "Name": "Forced Double",
+    "EffectType": "BlindEffect",
+    "EffectValue": "ForceDouble",
+    "Desc": "더블 강제"
+  },
+  {
+    "Id": "blind_04",
+    "Name": "Half Vision",
+    "EffectType": "BlindEffect",
+    "EffectValue": "HidePlayer",
+    "Desc": "플레이어만 합계 숨김"
+  },
+  {
+    "Id": "blind_05",
+    "Name": "Tax",
+    "EffectType": "BlindEffect",
+    "EffectValue": "Payout=-0.25",
+    "Desc": "배당 -0.25"
+  },
+  {
+    "Id": "blind_06",
+    "Name": "Inflation",
+    "EffectType": "BlindEffect",
+    "EffectValue": "Cost=+10%",
+    "Desc": "상점 가격 인상"
+  },
+  {
+    "Id": "blind_07",
+    "Name": "Fragile Deck",
+    "EffectType": "BlindEffect",
+    "EffectValue": "SetCap=19",
+    "Desc": "버스트 한계 19"
+  },
+  {
+    "Id": "blind_08",
+    "Name": "Heavy Deck",
+    "EffectType": "BlindEffect",
+    "EffectValue": "Draw=-1",
+    "Desc": "드로우 -1"
+  },
+  {
+    "Id": "blind_09",
+    "Name": "Sticky Hand",
+    "EffectType": "BlindEffect",
+    "EffectValue": "NoDiscard",
+    "Desc": "디스카드 금지"
+  },
+  {
+    "Id": "blind_10",
+    "Name": "Mirror Dealer",
+    "EffectType": "BlindEffect",
+    "EffectValue": "DealerBonus=+2",
+    "Desc": "딜러 보너스 +2"
+  }
+]

@@ -1,0 +1,13 @@
+Id,Name,PackType,Size,EffectType,EffectValue,Desc,Weight,UnlockReq,Deprecated
+pack_01,Small Pack,Card,3,PoolMask,Rule=Default,일반 카드 3장 제시,0.48,,FALSE
+pack_02,Rare Pack,Card,3(Rare+),PoolMask,Rule=Default,희귀 카드 3장,0.72,,FALSE
+pack_03,Joker Pack,Relic,1,PoolMask,Rule=Default,조커 1장 보장,0.34,,FALSE
+pack_04,Premium Pack,Mixed,5,PoolMask,Rule=Default,카드/조커/소모품 혼합 5장,0.72,,FALSE
+pack_05,Small Pack,Card,3,PoolMask,Rule=Default,일반 카드 3장 제시,0.23,,FALSE
+pack_06,Rare Pack,Card,3(Rare+),PoolMask,Rule=Default,희귀 카드 3장,0.55,,FALSE
+pack_07,Joker Pack,Relic,1,PoolMask,Rule=Default,조커 1장 보장,0.68,,FALSE
+pack_08,Premium Pack,Mixed,5,PoolMask,Rule=Default,카드/조커/소모품 혼합 5장,0.75,,FALSE
+pack_09,Small Pack,Card,3,PoolMask,Rule=Default,일반 카드 3장 제시,0.23,,FALSE
+pack_10,Rare Pack,Card,3(Rare+),PoolMask,Rule=Default,희귀 카드 3장,0.77,,FALSE
+pack_11,Joker Pack,Relic,1,PoolMask,Rule=Default,조커 1장 보장,0.56,,FALSE
+pack_12,Premium Pack,Mixed,5,PoolMask,Rule=Default,카드/조커/소모품 혼합 5장,0.4,,FALSE

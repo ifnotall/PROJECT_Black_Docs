@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "stake_01",
+    "Name": "Iron",
+    "PayoutMult": "x1.0",
+    "ExtraRule": "-"
+  },
+  {
+    "Id": "stake_02",
+    "Name": "Bronze",
+    "PayoutMult": "x1.1",
+    "ExtraRule": "+Small Blind 1회"
+  },
+  {
+    "Id": "stake_03",
+    "Name": "Silver",
+    "PayoutMult": "x1.2",
+    "ExtraRule": "+Tax"
+  },
+  {
+    "Id": "stake_04",
+    "Name": "Gold",
+    "PayoutMult": "x1.3",
+    "ExtraRule": "+Inflation"
+  },
+  {
+    "Id": "stake_05",
+    "Name": "Emerald",
+    "PayoutMult": "x1.4",
+    "ExtraRule": "+Fragile"
+  },
+  {
+    "Id": "stake_06",
+    "Name": "Ruby",
+    "PayoutMult": "x1.5",
+    "ExtraRule": "+Heavy"
+  },
+  {
+    "Id": "stake_07",
+    "Name": "Platinum",
+    "PayoutMult": "x1.6",
+    "ExtraRule": "+Sticky"
+  },
+  {
+    "Id": "stake_08",
+    "Name": "Black",
+    "PayoutMult": "x1.7",
+    "ExtraRule": "+Mirror Dealer"
+  }
+]

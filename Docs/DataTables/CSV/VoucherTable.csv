@@ -1,0 +1,21 @@
+Id,Name,ItemType,EffectType,EffectValue,Tags,Desc,Weight,UnlockReq,Deprecated
+voucher_01,Shop Discount,Voucher,ModifyCost,-20%,Voucher,Shop 전 품목 20% 할인,0.39,,FALSE
+voucher_02,Joker Slot +1,Voucher,AddSlot,Joker:+1,Voucher,조커 슬롯 +1,0.75,,FALSE
+voucher_03,Reroll Cheaper,Voucher,ModifyCost,Reroll:-50%,Voucher,리롤 비용 50% 감소,0.27,,FALSE
+voucher_04,Start Cash,Voucher,GainResource,+100,Voucher,시작 자금 +100,0.58,,FALSE
+voucher_05,Shop Discount,Voucher,ModifyCost,-20%,Voucher,Shop 전 품목 20% 할인,0.67,,FALSE
+voucher_06,Joker Slot +1,Voucher,AddSlot,Joker:+1,Voucher,조커 슬롯 +1,0.2,,FALSE
+voucher_07,Reroll Cheaper,Voucher,ModifyCost,Reroll:-50%,Voucher,리롤 비용 50% 감소,0.64,,FALSE
+voucher_08,Start Cash,Voucher,GainResource,+100,Voucher,시작 자금 +100,0.66,,FALSE
+voucher_09,Shop Discount,Voucher,ModifyCost,-20%,Voucher,Shop 전 품목 20% 할인,0.31,,FALSE
+voucher_10,Joker Slot +1,Voucher,AddSlot,Joker:+1,Voucher,조커 슬롯 +1,0.27,,FALSE
+voucher_11,Reroll Cheaper,Voucher,ModifyCost,Reroll:-50%,Voucher,리롤 비용 50% 감소,0.28,,FALSE
+voucher_12,Start Cash,Voucher,GainResource,+100,Voucher,시작 자금 +100,0.23,,FALSE
+voucher_13,Shop Discount,Voucher,ModifyCost,-20%,Voucher,Shop 전 품목 20% 할인,0.8,,FALSE
+voucher_14,Joker Slot +1,Voucher,AddSlot,Joker:+1,Voucher,조커 슬롯 +1,0.62,,FALSE
+voucher_15,Reroll Cheaper,Voucher,ModifyCost,Reroll:-50%,Voucher,리롤 비용 50% 감소,0.43,,FALSE
+voucher_16,Start Cash,Voucher,GainResource,+100,Voucher,시작 자금 +100,0.55,,FALSE
+voucher_17,Shop Discount,Voucher,ModifyCost,-20%,Voucher,Shop 전 품목 20% 할인,0.6,,FALSE
+voucher_18,Joker Slot +1,Voucher,AddSlot,Joker:+1,Voucher,조커 슬롯 +1,0.53,,FALSE
+voucher_19,Reroll Cheaper,Voucher,ModifyCost,Reroll:-50%,Voucher,리롤 비용 50% 감소,0.38,,FALSE
+voucher_20,Start Cash,Voucher,GainResource,+100,Voucher,시작 자금 +100,0.45,,FALSE

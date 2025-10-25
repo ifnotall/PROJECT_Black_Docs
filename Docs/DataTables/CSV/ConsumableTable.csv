@@ -1,0 +1,31 @@
+Id,Name,Type,EffectType,EffectValue,Charges,Tags,Desc,Weight,UnlockReq,Deprecated
+con_tarot_01,The Fool,Tarot,Reroll,1,1,Tarot,현재 핸드 리롤 1회,0.77,,FALSE
+con_tarot_02,The Moon,Tarot,DrawExtra,+1,1,Tarot,다음 핸드 카드 +1,0.42,,FALSE
+con_tarot_03,The Sun,Tarot,UpgradeCard,+1 Tier,1,Tarot,카드 1장 강화,0.39,,FALSE
+con_tarot_04,The Devil,Tarot,SealCard,TRUE,1,Tarot,카드 1장 봉인,0.58,,FALSE
+con_planet_05,Mars,Planet,MultiplyScore,x2,1,Planet,이번 핸드 점수 2배,0.64,,FALSE
+con_planet_06,Venus,Planet,DrawExtra,+1,1,Planet,즉시 드로우 +1,0.72,,FALSE
+con_planet_07,Jupiter,Planet,SetCap,+4,1,Planet,버스트 한계 +4,0.6,,FALSE
+con_ghost_08,Phantom Card,Ghost,SkipEnemyTurn,1,1,Ghost,적 1턴 스킵,0.59,,FALSE
+con_tarot_09,The Fool,Tarot,Reroll,1,1,Tarot,현재 핸드 리롤 1회,0.81,,FALSE
+con_tarot_10,The Moon,Tarot,DrawExtra,+1,1,Tarot,다음 핸드 카드 +1,0.82,,FALSE
+con_tarot_11,The Sun,Tarot,UpgradeCard,+1 Tier,1,Tarot,카드 1장 강화,0.61,,FALSE
+con_tarot_12,The Devil,Tarot,SealCard,TRUE,1,Tarot,카드 1장 봉인,0.75,,FALSE
+con_planet_13,Mars,Planet,MultiplyScore,x2,1,Planet,이번 핸드 점수 2배,0.89,,FALSE
+con_planet_14,Venus,Planet,DrawExtra,+1,1,Planet,즉시 드로우 +1,0.5,,FALSE
+con_planet_15,Jupiter,Planet,SetCap,+4,1,Planet,버스트 한계 +4,0.54,,FALSE
+con_ghost_16,Phantom Card,Ghost,SkipEnemyTurn,1,1,Ghost,적 1턴 스킵,0.32,,FALSE
+con_tarot_17,The Fool,Tarot,Reroll,1,1,Tarot,현재 핸드 리롤 1회,0.38,,FALSE
+con_tarot_18,The Moon,Tarot,DrawExtra,+1,1,Tarot,다음 핸드 카드 +1,0.57,,FALSE
+con_tarot_19,The Sun,Tarot,UpgradeCard,+1 Tier,1,Tarot,카드 1장 강화,0.62,,FALSE
+con_tarot_20,The Devil,Tarot,SealCard,TRUE,1,Tarot,카드 1장 봉인,0.79,,FALSE
+con_planet_21,Mars,Planet,MultiplyScore,x2,1,Planet,이번 핸드 점수 2배,0.39,,FALSE
+con_planet_22,Venus,Planet,DrawExtra,+1,1,Planet,즉시 드로우 +1,0.47,,FALSE
+con_planet_23,Jupiter,Planet,SetCap,+4,1,Planet,버스트 한계 +4,0.78,,FALSE
+con_ghost_24,Phantom Card,Ghost,SkipEnemyTurn,1,1,Ghost,적 1턴 스킵,0.34,,FALSE
+con_tarot_25,The Fool,Tarot,Reroll,1,1,Tarot,현재 핸드 리롤 1회,0.84,,FALSE
+con_tarot_26,The Moon,Tarot,DrawExtra,+1,1,Tarot,다음 핸드 카드 +1,0.7,,FALSE
+con_tarot_27,The Sun,Tarot,UpgradeCard,+1 Tier,1,Tarot,카드 1장 강화,0.42,,FALSE
+con_tarot_28,The Devil,Tarot,SealCard,TRUE,1,Tarot,카드 1장 봉인,0.31,,FALSE
+con_planet_29,Mars,Planet,MultiplyScore,x2,1,Planet,이번 핸드 점수 2배,0.31,,FALSE
+con_planet_30,Venus,Planet,DrawExtra,+1,1,Planet,즉시 드로우 +1,0.4,,FALSE

@@ -1,0 +1,11 @@
+Id,Name,EffectType,EffectValue,Desc
+blind_01,Hidden Totals,BlindEffect,HideTotals,플레이어/딜러 합계 숨김
+blind_02,Turn Limit,BlindEffect,TurnCap=3,턴 제한 3
+blind_03,Forced Double,BlindEffect,ForceDouble,더블 강제
+blind_04,Half Vision,BlindEffect,HidePlayer,플레이어만 합계 숨김
+blind_05,Tax,BlindEffect,Payout=-0.25,배당 -0.25
+blind_06,Inflation,BlindEffect,Cost=+10%,상점 가격 인상
+blind_07,Fragile Deck,BlindEffect,SetCap=19,버스트 한계 19
+blind_08,Heavy Deck,BlindEffect,Draw=-1,드로우 -1
+blind_09,Sticky Hand,BlindEffect,NoDiscard,디스카드 금지
+blind_10,Mirror Dealer,BlindEffect,DealerBonus=+2,딜러 보너스 +2

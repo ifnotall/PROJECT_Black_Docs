@@ -1,0 +1,3 @@
+- 엑셀 원본 수정 → CSV(`/Docs/DataTables/CSV`) → JSON(`/Docs/DataTables/JSON`).
+- Unity는 `Assets/_Project/DataTables/JSON`을 참조.
+- 축소/삭제 시 `Deprecated=TRUE`로 표시 후 Weight=0 권장.

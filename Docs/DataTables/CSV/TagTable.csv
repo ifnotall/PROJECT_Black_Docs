@@ -1,0 +1,11 @@
+Id,Name,Category,Desc
+tag_01,Lucky,Set,행운 관련 시너지
+tag_02,Collector,Set,수집 세트 효과
+tag_03,Combo,Mechanic,콤보 기반
+tag_04,Risk,Mechanic,리스크-보상
+tag_05,Defense,Mechanic,"안정성, 버스트 방지"
+tag_06,SuitHeart,Filter,하트 관련
+tag_07,SuitDiamond,Filter,다이아 관련
+tag_08,Wild,State,색상 무시
+tag_09,Curse,State,페널티
+tag_10,Edition,State,골드/홀로 등

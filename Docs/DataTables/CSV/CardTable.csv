@@ -1,0 +1,81 @@
+Id,Name,Suit,Rank,Rarity,Cost,EffectType,EffectValue,Tags,Desc,Weight,UnlockReq,Deprecated,PrefabHint
+card_a_spade,Ace♠,spade,A,Basic,0,DualValue,1/11,Starter,Ace of spade,1.0,,FALSE,pf_card_a
+card_2_spade,2♠,spade,2,Basic,0,AddValue,+2,Number,2 of spade,1.0,,FALSE,pf_card_2
+card_3_spade,3♠,spade,3,Basic,0,AddValue,+3,Number,3 of spade,1.0,,FALSE,pf_card_3
+card_4_spade,4♠,spade,4,Basic,0,AddValue,+4,Number,4 of spade,1.0,,FALSE,pf_card_4
+card_5_spade,5♠,spade,5,Basic,0,AddValue,+5,Number,5 of spade,1.0,,FALSE,pf_card_5
+card_6_spade,6♠,spade,6,Basic,0,AddValue,+6,Number,6 of spade,1.0,,FALSE,pf_card_6
+card_7_spade,7♠,spade,7,Basic,0,AddValue,+7,Number,7 of spade,1.0,,FALSE,pf_card_7
+card_8_spade,8♠,spade,8,Basic,0,AddValue,+8,Number,8 of spade,1.0,,FALSE,pf_card_8
+card_9_spade,9♠,spade,9,Basic,0,AddValue,+9,Number,9 of spade,1.0,,FALSE,pf_card_9
+card_10_spade,10♠,spade,10,Basic,0,AddValue,+10,Number,10 of spade,1.0,,FALSE,pf_card_10
+card_j_spade,Jack♠,spade,J,Basic,0,AddValue,+10,Face,Jack of spade,1.0,,FALSE,pf_card_j
+card_q_spade,Queen♠,spade,Q,Basic,0,AddValue,+10,Face,Queen of spade,1.0,,FALSE,pf_card_q
+card_k_spade,King♠,spade,K,Basic,0,AddValue,+10,Face,King of spade,1.0,,FALSE,pf_card_k
+card_a_heart,Ace♥,heart,A,Basic,0,DualValue,1/11,Starter,Ace of heart,1.0,,FALSE,pf_card_a
+card_2_heart,2♥,heart,2,Basic,0,AddValue,+2,Number,2 of heart,1.0,,FALSE,pf_card_2
+card_3_heart,3♥,heart,3,Basic,0,AddValue,+3,Number,3 of heart,1.0,,FALSE,pf_card_3
+card_4_heart,4♥,heart,4,Basic,0,AddValue,+4,Number,4 of heart,1.0,,FALSE,pf_card_4
+card_5_heart,5♥,heart,5,Basic,0,AddValue,+5,Number,5 of heart,1.0,,FALSE,pf_card_5
+card_6_heart,6♥,heart,6,Basic,0,AddValue,+6,Number,6 of heart,1.0,,FALSE,pf_card_6
+card_7_heart,7♥,heart,7,Basic,0,AddValue,+7,Number,7 of heart,1.0,,FALSE,pf_card_7
+card_8_heart,8♥,heart,8,Basic,0,AddValue,+8,Number,8 of heart,1.0,,FALSE,pf_card_8
+card_9_heart,9♥,heart,9,Basic,0,AddValue,+9,Number,9 of heart,1.0,,FALSE,pf_card_9
+card_10_heart,10♥,heart,10,Basic,0,AddValue,+10,Number,10 of heart,1.0,,FALSE,pf_card_10
+card_j_heart,Jack♥,heart,J,Basic,0,AddValue,+10,Face,Jack of heart,1.0,,FALSE,pf_card_j
+card_q_heart,Queen♥,heart,Q,Basic,0,AddValue,+10,Face,Queen of heart,1.0,,FALSE,pf_card_q
+card_k_heart,King♥,heart,K,Basic,0,AddValue,+10,Face,King of heart,1.0,,FALSE,pf_card_k
+card_a_diamond,Ace♦,diamond,A,Basic,0,DualValue,1/11,Starter,Ace of diamond,1.0,,FALSE,pf_card_a
+card_2_diamond,2♦,diamond,2,Basic,0,AddValue,+2,Number,2 of diamond,1.0,,FALSE,pf_card_2
+card_3_diamond,3♦,diamond,3,Basic,0,AddValue,+3,Number,3 of diamond,1.0,,FALSE,pf_card_3
+card_4_diamond,4♦,diamond,4,Basic,0,AddValue,+4,Number,4 of diamond,1.0,,FALSE,pf_card_4
+card_5_diamond,5♦,diamond,5,Basic,0,AddValue,+5,Number,5 of diamond,1.0,,FALSE,pf_card_5
+card_6_diamond,6♦,diamond,6,Basic,0,AddValue,+6,Number,6 of diamond,1.0,,FALSE,pf_card_6
+card_7_diamond,7♦,diamond,7,Basic,0,AddValue,+7,Number,7 of diamond,1.0,,FALSE,pf_card_7
+card_8_diamond,8♦,diamond,8,Basic,0,AddValue,+8,Number,8 of diamond,1.0,,FALSE,pf_card_8
+card_9_diamond,9♦,diamond,9,Basic,0,AddValue,+9,Number,9 of diamond,1.0,,FALSE,pf_card_9
+card_10_diamond,10♦,diamond,10,Basic,0,AddValue,+10,Number,10 of diamond,1.0,,FALSE,pf_card_10
+card_j_diamond,Jack♦,diamond,J,Basic,0,AddValue,+10,Face,Jack of diamond,1.0,,FALSE,pf_card_j
+card_q_diamond,Queen♦,diamond,Q,Basic,0,AddValue,+10,Face,Queen of diamond,1.0,,FALSE,pf_card_q
+card_k_diamond,King♦,diamond,K,Basic,0,AddValue,+10,Face,King of diamond,1.0,,FALSE,pf_card_k
+card_a_club,Ace♣,club,A,Basic,0,DualValue,1/11,Starter,Ace of club,1.0,,FALSE,pf_card_a
+card_2_club,2♣,club,2,Basic,0,AddValue,+2,Number,2 of club,1.0,,FALSE,pf_card_2
+card_3_club,3♣,club,3,Basic,0,AddValue,+3,Number,3 of club,1.0,,FALSE,pf_card_3
+card_4_club,4♣,club,4,Basic,0,AddValue,+4,Number,4 of club,1.0,,FALSE,pf_card_4
+card_5_club,5♣,club,5,Basic,0,AddValue,+5,Number,5 of club,1.0,,FALSE,pf_card_5
+card_6_club,6♣,club,6,Basic,0,AddValue,+6,Number,6 of club,1.0,,FALSE,pf_card_6
+card_7_club,7♣,club,7,Basic,0,AddValue,+7,Number,7 of club,1.0,,FALSE,pf_card_7
+card_8_club,8♣,club,8,Basic,0,AddValue,+8,Number,8 of club,1.0,,FALSE,pf_card_8
+card_9_club,9♣,club,9,Basic,0,AddValue,+9,Number,9 of club,1.0,,FALSE,pf_card_9
+card_10_club,10♣,club,10,Basic,0,AddValue,+10,Number,10 of club,1.0,,FALSE,pf_card_10
+card_j_club,Jack♣,club,J,Basic,0,AddValue,+10,Face,Jack of club,1.0,,FALSE,pf_card_j
+card_q_club,Queen♣,club,Q,Basic,0,AddValue,+10,Face,Queen of club,1.0,,FALSE,pf_card_q
+card_k_club,King♣,club,K,Basic,0,AddValue,+10,Face,King of club,1.0,,FALSE,pf_card_k
+card_var_01,Variant 1,none,-,Uncommon,0,ApplyMod,Edition=Gold,Edition,Variant with gold,0.5,,FALSE,pf_card_variant
+card_var_02,Variant 2,none,-,Uncommon,0,ApplyMod,Seal=True,Seal,Variant with sealed,0.5,,FALSE,pf_card_variant
+card_var_03,Variant 3,none,-,Uncommon,0,MultiplyScore,x2,Combo,Variant with double,0.5,,FALSE,pf_card_variant
+card_var_04,Variant 4,none,-,Uncommon,0,ModifyPayout,+0.10,Lucky,Variant with lucky,0.5,,FALSE,pf_card_variant
+card_var_05,Variant 5,none,-,Uncommon,0,AddValue,-2,Curse,Variant with cursed,0.5,,FALSE,pf_card_variant
+card_var_06,Variant 6,none,-,Uncommon,0,AddValue,+1,Wild,Variant with wild,0.5,,FALSE,pf_card_variant
+card_var_07,Variant 7,none,-,Uncommon,0,SetCap,25,Fragile,Variant with fragile,0.5,,FALSE,pf_card_variant
+card_var_08,Variant 8,none,-,Uncommon,0,ApplyMod,Edition=Gold,Edition,Variant with gold,0.5,,FALSE,pf_card_variant
+card_var_09,Variant 9,none,-,Uncommon,0,ApplyMod,Seal=True,Seal,Variant with sealed,0.5,,FALSE,pf_card_variant
+card_var_10,Variant 10,none,-,Uncommon,0,MultiplyScore,x2,Combo,Variant with double,0.5,,FALSE,pf_card_variant
+card_var_11,Variant 11,none,-,Uncommon,0,ModifyPayout,+0.10,Lucky,Variant with lucky,0.5,,FALSE,pf_card_variant
+card_var_12,Variant 12,none,-,Uncommon,0,AddValue,-2,Curse,Variant with cursed,0.5,,FALSE,pf_card_variant
+card_var_13,Variant 13,none,-,Uncommon,0,AddValue,+1,Wild,Variant with wild,0.5,,FALSE,pf_card_variant
+card_var_14,Variant 14,none,-,Uncommon,0,SetCap,25,Fragile,Variant with fragile,0.5,,FALSE,pf_card_variant
+card_var_15,Variant 15,none,-,Uncommon,0,ApplyMod,Edition=Gold,Edition,Variant with gold,0.5,,FALSE,pf_card_variant
+card_var_16,Variant 16,none,-,Uncommon,0,ApplyMod,Seal=True,Seal,Variant with sealed,0.5,,FALSE,pf_card_variant
+card_var_17,Variant 17,none,-,Uncommon,0,MultiplyScore,x2,Combo,Variant with double,0.5,,FALSE,pf_card_variant
+card_var_18,Variant 18,none,-,Uncommon,0,ModifyPayout,+0.10,Lucky,Variant with lucky,0.5,,FALSE,pf_card_variant
+card_var_19,Variant 19,none,-,Uncommon,0,AddValue,-2,Curse,Variant with cursed,0.5,,FALSE,pf_card_variant
+card_var_20,Variant 20,none,-,Uncommon,0,AddValue,+1,Wild,Variant with wild,0.5,,FALSE,pf_card_variant
+card_var_21,Variant 21,none,-,Uncommon,0,SetCap,25,Fragile,Variant with fragile,0.5,,FALSE,pf_card_variant
+card_var_22,Variant 22,none,-,Uncommon,0,ApplyMod,Edition=Gold,Edition,Variant with gold,0.5,,FALSE,pf_card_variant
+card_var_23,Variant 23,none,-,Uncommon,0,ApplyMod,Seal=True,Seal,Variant with sealed,0.5,,FALSE,pf_card_variant
+card_var_24,Variant 24,none,-,Uncommon,0,MultiplyScore,x2,Combo,Variant with double,0.5,,FALSE,pf_card_variant
+card_var_25,Variant 25,none,-,Uncommon,0,ModifyPayout,+0.10,Lucky,Variant with lucky,0.5,,FALSE,pf_card_variant
+card_var_26,Variant 26,none,-,Uncommon,0,AddValue,-2,Curse,Variant with cursed,0.5,,FALSE,pf_card_variant
+card_var_27,Variant 27,none,-,Uncommon,0,AddValue,+1,Wild,Variant with wild,0.5,,FALSE,pf_card_variant
+card_var_28,Variant 28,none,-,Uncommon,0,SetCap,25,Fragile,Variant with fragile,0.5,,FALSE,pf_card_variant

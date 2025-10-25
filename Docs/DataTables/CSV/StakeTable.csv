@@ -1,0 +1,9 @@
+Id,Name,PayoutMult,ExtraRule
+stake_01,Iron,x1.0,-
+stake_02,Bronze,x1.1,+Small Blind 1회
+stake_03,Silver,x1.2,+Tax
+stake_04,Gold,x1.3,+Inflation
+stake_05,Emerald,x1.4,+Fragile
+stake_06,Ruby,x1.5,+Heavy
+stake_07,Platinum,x1.6,+Sticky
+stake_08,Black,x1.7,+Mirror Dealer

@@ -1,0 +1,722 @@
+[
+  {
+    "Id": "shop_Card_001",
+    "ItemType": "Card",
+    "RefId": "card_a_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.33
+  },
+  {
+    "Id": "shop_Card_002",
+    "ItemType": "Card",
+    "RefId": "card_2_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.33
+  },
+  {
+    "Id": "shop_Card_003",
+    "ItemType": "Card",
+    "RefId": "card_3_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.68
+  },
+  {
+    "Id": "shop_Card_004",
+    "ItemType": "Card",
+    "RefId": "card_4_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.44
+  },
+  {
+    "Id": "shop_Card_005",
+    "ItemType": "Card",
+    "RefId": "card_5_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.77
+  },
+  {
+    "Id": "shop_Card_006",
+    "ItemType": "Card",
+    "RefId": "card_6_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.57
+  },
+  {
+    "Id": "shop_Card_007",
+    "ItemType": "Card",
+    "RefId": "card_7_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.47
+  },
+  {
+    "Id": "shop_Card_008",
+    "ItemType": "Card",
+    "RefId": "card_8_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.48
+  },
+  {
+    "Id": "shop_Card_009",
+    "ItemType": "Card",
+    "RefId": "card_9_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.64
+  },
+  {
+    "Id": "shop_Card_010",
+    "ItemType": "Card",
+    "RefId": "card_10_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.22
+  },
+  {
+    "Id": "shop_Card_011",
+    "ItemType": "Card",
+    "RefId": "card_j_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.39
+  },
+  {
+    "Id": "shop_Card_012",
+    "ItemType": "Card",
+    "RefId": "card_q_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.23
+  },
+  {
+    "Id": "shop_Card_013",
+    "ItemType": "Card",
+    "RefId": "card_k_spade",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.24
+  },
+  {
+    "Id": "shop_Card_014",
+    "ItemType": "Card",
+    "RefId": "card_a_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.26
+  },
+  {
+    "Id": "shop_Card_015",
+    "ItemType": "Card",
+    "RefId": "card_2_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.38
+  },
+  {
+    "Id": "shop_Card_016",
+    "ItemType": "Card",
+    "RefId": "card_3_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.73
+  },
+  {
+    "Id": "shop_Card_017",
+    "ItemType": "Card",
+    "RefId": "card_4_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.35
+  },
+  {
+    "Id": "shop_Card_018",
+    "ItemType": "Card",
+    "RefId": "card_5_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.29
+  },
+  {
+    "Id": "shop_Card_019",
+    "ItemType": "Card",
+    "RefId": "card_6_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.47
+  },
+  {
+    "Id": "shop_Card_020",
+    "ItemType": "Card",
+    "RefId": "card_7_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.49
+  },
+  {
+    "Id": "shop_Card_021",
+    "ItemType": "Card",
+    "RefId": "card_8_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.56
+  },
+  {
+    "Id": "shop_Card_022",
+    "ItemType": "Card",
+    "RefId": "card_9_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.41
+  },
+  {
+    "Id": "shop_Card_023",
+    "ItemType": "Card",
+    "RefId": "card_10_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.68
+  },
+  {
+    "Id": "shop_Card_024",
+    "ItemType": "Card",
+    "RefId": "card_j_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.23
+  },
+  {
+    "Id": "shop_Card_025",
+    "ItemType": "Card",
+    "RefId": "card_q_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.43
+  },
+  {
+    "Id": "shop_Card_026",
+    "ItemType": "Card",
+    "RefId": "card_k_heart",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.78
+  },
+  {
+    "Id": "shop_Card_027",
+    "ItemType": "Card",
+    "RefId": "card_a_diamond",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.56
+  },
+  {
+    "Id": "shop_Card_028",
+    "ItemType": "Card",
+    "RefId": "card_2_diamond",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.25
+  },
+  {
+    "Id": "shop_Card_029",
+    "ItemType": "Card",
+    "RefId": "card_3_diamond",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.29
+  },
+  {
+    "Id": "shop_Card_030",
+    "ItemType": "Card",
+    "RefId": "card_4_diamond",
+    "Price": 30,
+    "Stock": 1,
+    "Weight": 0.78
+  },
+  {
+    "Id": "shop_Relic_001",
+    "ItemType": "Relic",
+    "RefId": "relic_lucky_joker_01",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.73
+  },
+  {
+    "Id": "shop_Relic_002",
+    "ItemType": "Relic",
+    "RefId": "relic_greedy_joker_02",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.36
+  },
+  {
+    "Id": "shop_Relic_003",
+    "ItemType": "Relic",
+    "RefId": "relic_safe_bet_03",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.56
+  },
+  {
+    "Id": "shop_Relic_004",
+    "ItemType": "Relic",
+    "RefId": "relic_double_down_04",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.24
+  },
+  {
+    "Id": "shop_Relic_005",
+    "ItemType": "Relic",
+    "RefId": "relic_collector_05",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.58
+  },
+  {
+    "Id": "shop_Relic_006",
+    "ItemType": "Relic",
+    "RefId": "relic_combo_engine_06",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.78
+  },
+  {
+    "Id": "shop_Relic_007",
+    "ItemType": "Relic",
+    "RefId": "relic_suit_master_07",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.52
+  },
+  {
+    "Id": "shop_Relic_008",
+    "ItemType": "Relic",
+    "RefId": "relic_risk_trader_08",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.68
+  },
+  {
+    "Id": "shop_Relic_009",
+    "ItemType": "Relic",
+    "RefId": "relic_vampire_09",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.21
+  },
+  {
+    "Id": "shop_Relic_010",
+    "ItemType": "Relic",
+    "RefId": "relic_business_card_10",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.55
+  },
+  {
+    "Id": "shop_Relic_011",
+    "ItemType": "Relic",
+    "RefId": "relic_lucky_joker_11",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.63
+  },
+  {
+    "Id": "shop_Relic_012",
+    "ItemType": "Relic",
+    "RefId": "relic_greedy_joker_12",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.36
+  },
+  {
+    "Id": "shop_Relic_013",
+    "ItemType": "Relic",
+    "RefId": "relic_safe_bet_13",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.68
+  },
+  {
+    "Id": "shop_Relic_014",
+    "ItemType": "Relic",
+    "RefId": "relic_double_down_14",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.26
+  },
+  {
+    "Id": "shop_Relic_015",
+    "ItemType": "Relic",
+    "RefId": "relic_collector_15",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.47
+  },
+  {
+    "Id": "shop_Relic_016",
+    "ItemType": "Relic",
+    "RefId": "relic_combo_engine_16",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.39
+  },
+  {
+    "Id": "shop_Relic_017",
+    "ItemType": "Relic",
+    "RefId": "relic_suit_master_17",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.62
+  },
+  {
+    "Id": "shop_Relic_018",
+    "ItemType": "Relic",
+    "RefId": "relic_risk_trader_18",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.43
+  },
+  {
+    "Id": "shop_Relic_019",
+    "ItemType": "Relic",
+    "RefId": "relic_vampire_19",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.69
+  },
+  {
+    "Id": "shop_Relic_020",
+    "ItemType": "Relic",
+    "RefId": "relic_business_card_20",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.53
+  },
+  {
+    "Id": "shop_Relic_021",
+    "ItemType": "Relic",
+    "RefId": "relic_lucky_joker_21",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.27
+  },
+  {
+    "Id": "shop_Relic_022",
+    "ItemType": "Relic",
+    "RefId": "relic_greedy_joker_22",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.23
+  },
+  {
+    "Id": "shop_Relic_023",
+    "ItemType": "Relic",
+    "RefId": "relic_safe_bet_23",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.22
+  },
+  {
+    "Id": "shop_Relic_024",
+    "ItemType": "Relic",
+    "RefId": "relic_double_down_24",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.8
+  },
+  {
+    "Id": "shop_Relic_025",
+    "ItemType": "Relic",
+    "RefId": "relic_collector_25",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.8
+  },
+  {
+    "Id": "shop_Relic_026",
+    "ItemType": "Relic",
+    "RefId": "relic_combo_engine_26",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.75
+  },
+  {
+    "Id": "shop_Relic_027",
+    "ItemType": "Relic",
+    "RefId": "relic_suit_master_27",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.73
+  },
+  {
+    "Id": "shop_Relic_028",
+    "ItemType": "Relic",
+    "RefId": "relic_risk_trader_28",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.46
+  },
+  {
+    "Id": "shop_Relic_029",
+    "ItemType": "Relic",
+    "RefId": "relic_vampire_29",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.2
+  },
+  {
+    "Id": "shop_Relic_030",
+    "ItemType": "Relic",
+    "RefId": "relic_business_card_30",
+    "Price": 120,
+    "Stock": 1,
+    "Weight": 0.21
+  },
+  {
+    "Id": "shop_Consumable_001",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_01",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.6
+  },
+  {
+    "Id": "shop_Consumable_002",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_02",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.49
+  },
+  {
+    "Id": "shop_Consumable_003",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_03",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.31
+  },
+  {
+    "Id": "shop_Consumable_004",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_04",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.46
+  },
+  {
+    "Id": "shop_Consumable_005",
+    "ItemType": "Consumable",
+    "RefId": "con_planet_05",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.76
+  },
+  {
+    "Id": "shop_Consumable_006",
+    "ItemType": "Consumable",
+    "RefId": "con_planet_06",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.24
+  },
+  {
+    "Id": "shop_Consumable_007",
+    "ItemType": "Consumable",
+    "RefId": "con_planet_07",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.41
+  },
+  {
+    "Id": "shop_Consumable_008",
+    "ItemType": "Consumable",
+    "RefId": "con_ghost_08",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.36
+  },
+  {
+    "Id": "shop_Consumable_009",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_09",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.69
+  },
+  {
+    "Id": "shop_Consumable_010",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_10",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.45
+  },
+  {
+    "Id": "shop_Consumable_011",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_11",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.37
+  },
+  {
+    "Id": "shop_Consumable_012",
+    "ItemType": "Consumable",
+    "RefId": "con_tarot_12",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.52
+  },
+  {
+    "Id": "shop_Consumable_013",
+    "ItemType": "Consumable",
+    "RefId": "con_planet_13",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.37
+  },
+  {
+    "Id": "shop_Consumable_014",
+    "ItemType": "Consumable",
+    "RefId": "con_planet_14",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.37
+  },
+  {
+    "Id": "shop_Consumable_015",
+    "ItemType": "Consumable",
+    "RefId": "con_planet_15",
+    "Price": 50,
+    "Stock": 1,
+    "Weight": 0.42
+  },
+  {
+    "Id": "shop_Voucher_001",
+    "ItemType": "Voucher",
+    "RefId": "voucher_01",
+    "Price": 200,
+    "Stock": 1,
+    "Weight": 0.76
+  },
+  {
+    "Id": "shop_Voucher_002",
+    "ItemType": "Voucher",
+    "RefId": "voucher_02",
+    "Price": 200,
+    "Stock": 1,
+    "Weight": 0.26
+  },
+  {
+    "Id": "shop_Voucher_003",
+    "ItemType": "Voucher",
+    "RefId": "voucher_03",
+    "Price": 200,
+    "Stock": 1,
+    "Weight": 0.76
+  },
+  {
+    "Id": "shop_Voucher_004",
+    "ItemType": "Voucher",
+    "RefId": "voucher_04",
+    "Price": 200,
+    "Stock": 1,
+    "Weight": 0.77
+  },
+  {
+    "Id": "shop_Voucher_005",
+    "ItemType": "Voucher",
+    "RefId": "voucher_05",
+    "Price": 200,
+    "Stock": 1,
+    "Weight": 0.62
+  },
+  {
+    "Id": "shop_Pack_001",
+    "ItemType": "Pack",
+    "RefId": "pack_01",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.23
+  },
+  {
+    "Id": "shop_Pack_002",
+    "ItemType": "Pack",
+    "RefId": "pack_02",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.72
+  },
+  {
+    "Id": "shop_Pack_003",
+    "ItemType": "Pack",
+    "RefId": "pack_03",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.27
+  },
+  {
+    "Id": "shop_Pack_004",
+    "ItemType": "Pack",
+    "RefId": "pack_04",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.27
+  },
+  {
+    "Id": "shop_Pack_005",
+    "ItemType": "Pack",
+    "RefId": "pack_05",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.72
+  },
+  {
+    "Id": "shop_Pack_006",
+    "ItemType": "Pack",
+    "RefId": "pack_06",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.59
+  },
+  {
+    "Id": "shop_Pack_007",
+    "ItemType": "Pack",
+    "RefId": "pack_07",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.21
+  },
+  {
+    "Id": "shop_Pack_008",
+    "ItemType": "Pack",
+    "RefId": "pack_08",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.67
+  },
+  {
+    "Id": "shop_Pack_009",
+    "ItemType": "Pack",
+    "RefId": "pack_09",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.68
+  },
+  {
+    "Id": "shop_Pack_010",
+    "ItemType": "Pack",
+    "RefId": "pack_10",
+    "Price": 100,
+    "Stock": 1,
+    "Weight": 0.6
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "Id": "tag_01",
+    "Name": "Lucky",
+    "Category": "Set",
+    "Desc": "행운 관련 시너지"
+  },
+  {
+    "Id": "tag_02",
+    "Name": "Collector",
+    "Category": "Set",
+    "Desc": "수집 세트 효과"
+  },
+  {
+    "Id": "tag_03",
+    "Name": "Combo",
+    "Category": "Mechanic",
+    "Desc": "콤보 기반"
+  },
+  {
+    "Id": "tag_04",
+    "Name": "Risk",
+    "Category": "Mechanic",
+    "Desc": "리스크-보상"
+  },
+  {
+    "Id": "tag_05",
+    "Name": "Defense",
+    "Category": "Mechanic",
+    "Desc": "안정성, 버스트 방지"
+  },
+  {
+    "Id": "tag_06",
+    "Name": "SuitHeart",
+    "Category": "Filter",
+    "Desc": "하트 관련"
+  },
+  {
+    "Id": "tag_07",
+    "Name": "SuitDiamond",
+    "Category": "Filter",
+    "Desc": "다이아 관련"
+  },
+  {
+    "Id": "tag_08",
+    "Name": "Wild",
+    "Category": "State",
+    "Desc": "색상 무시"
+  },
+  {
+    "Id": "tag_09",
+    "Name": "Curse",
+    "Category": "State",
+    "Desc": "페널티"
+  },
+  {
+    "Id": "tag_10",
+    "Name": "Edition",
+    "Category": "State",
+    "Desc": "골드/홀로 등"
+  }
+]

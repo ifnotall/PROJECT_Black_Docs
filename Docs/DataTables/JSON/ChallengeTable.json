@@ -1,0 +1,212 @@
+[
+  {
+    "Id": "challenge_01",
+    "Name": "Challenge 1",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=0",
+    "Reward": "보상 Voucher:01"
+  },
+  {
+    "Id": "challenge_02",
+    "Name": "Challenge 2",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=1",
+    "Reward": "보상 Voucher:02"
+  },
+  {
+    "Id": "challenge_03",
+    "Name": "Challenge 3",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=2",
+    "Reward": "보상 Voucher:03"
+  },
+  {
+    "Id": "challenge_04",
+    "Name": "Challenge 4",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=3",
+    "Reward": "보상 Voucher:04"
+  },
+  {
+    "Id": "challenge_05",
+    "Name": "Challenge 5",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=4",
+    "Reward": "보상 Voucher:05"
+  },
+  {
+    "Id": "challenge_06",
+    "Name": "Challenge 6",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=0",
+    "Reward": "보상 Voucher:06"
+  },
+  {
+    "Id": "challenge_07",
+    "Name": "Challenge 7",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=1",
+    "Reward": "보상 Voucher:07"
+  },
+  {
+    "Id": "challenge_08",
+    "Name": "Challenge 8",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=2",
+    "Reward": "보상 Voucher:08"
+  },
+  {
+    "Id": "challenge_09",
+    "Name": "Challenge 9",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=3",
+    "Reward": "보상 Voucher:09"
+  },
+  {
+    "Id": "challenge_10",
+    "Name": "Challenge 10",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=4",
+    "Reward": "보상 Voucher:10"
+  },
+  {
+    "Id": "challenge_11",
+    "Name": "Challenge 11",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=0",
+    "Reward": "보상 Voucher:01"
+  },
+  {
+    "Id": "challenge_12",
+    "Name": "Challenge 12",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=1",
+    "Reward": "보상 Voucher:02"
+  },
+  {
+    "Id": "challenge_13",
+    "Name": "Challenge 13",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=2",
+    "Reward": "보상 Voucher:03"
+  },
+  {
+    "Id": "challenge_14",
+    "Name": "Challenge 14",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=3",
+    "Reward": "보상 Voucher:04"
+  },
+  {
+    "Id": "challenge_15",
+    "Name": "Challenge 15",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=4",
+    "Reward": "보상 Voucher:05"
+  },
+  {
+    "Id": "challenge_16",
+    "Name": "Challenge 16",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=0",
+    "Reward": "보상 Voucher:06"
+  },
+  {
+    "Id": "challenge_17",
+    "Name": "Challenge 17",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=1",
+    "Reward": "보상 Voucher:07"
+  },
+  {
+    "Id": "challenge_18",
+    "Name": "Challenge 18",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=2",
+    "Reward": "보상 Voucher:08"
+  },
+  {
+    "Id": "challenge_19",
+    "Name": "Challenge 19",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=3",
+    "Reward": "보상 Voucher:09"
+  },
+  {
+    "Id": "challenge_20",
+    "Name": "Challenge 20",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=4",
+    "Reward": "보상 Voucher:10"
+  },
+  {
+    "Id": "challenge_21",
+    "Name": "Challenge 21",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=0",
+    "Reward": "보상 Voucher:01"
+  },
+  {
+    "Id": "challenge_22",
+    "Name": "Challenge 22",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=1",
+    "Reward": "보상 Voucher:02"
+  },
+  {
+    "Id": "challenge_23",
+    "Name": "Challenge 23",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=2",
+    "Reward": "보상 Voucher:03"
+  },
+  {
+    "Id": "challenge_24",
+    "Name": "Challenge 24",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=3",
+    "Reward": "보상 Voucher:04"
+  },
+  {
+    "Id": "challenge_25",
+    "Name": "Challenge 25",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=4",
+    "Reward": "보상 Voucher:05"
+  },
+  {
+    "Id": "challenge_26",
+    "Name": "Challenge 26",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=0",
+    "Reward": "보상 Voucher:06"
+  },
+  {
+    "Id": "challenge_27",
+    "Name": "Challenge 27",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=1",
+    "Reward": "보상 Voucher:07"
+  },
+  {
+    "Id": "challenge_28",
+    "Name": "Challenge 28",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=2",
+    "Reward": "보상 Voucher:08"
+  },
+  {
+    "Id": "challenge_29",
+    "Name": "Challenge 29",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=3",
+    "Reward": "보상 Voucher:09"
+  },
+  {
+    "Id": "challenge_30",
+    "Name": "Challenge 30",
+    "Type": "RuleSet",
+    "Rule": "Preset=hard;Modifier=4",
+    "Reward": "보상 Voucher:10"
+  }
+]
